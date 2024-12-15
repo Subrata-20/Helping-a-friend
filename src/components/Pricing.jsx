@@ -75,7 +75,7 @@ const Pricing = () => {
     <div className='h-[2px] bg-gold'></div>
 
     <div className='relative flex justify-center -top-[25px]'>
-      <button className='bg-gold text-2xl h-[50px] w-[130px] rounded-[57px] hover:bg-yellow-700 font-semibold'>
+      <button className='bg-gold text-2xl h-[50px] w-[130px] rounded-[57px] hover:bg-yellow-500 font-semibold'>
         Buy now
       </button>
     </div>
